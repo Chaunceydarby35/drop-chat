@@ -1,8 +1,13 @@
-import React from 'react'
+
+import { FaReact } from 'react-icons/fa'
 
 const UserLogin = () => {
   return (
-    <div>UserLogin</div>
+    <div>
+        <div>
+            <FaReact />
+        </div>
+    </div>
   )
 }
 
