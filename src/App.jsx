@@ -1,10 +1,10 @@
-
+import UserLogin from './Components/UserLogin'
 
 function App() {
 
   return (
     <>
-      
+      <UserLogin />
     </>
   )
 }
