@@ -4,3 +4,19 @@
     justify-content: center;
     margin: 10;
 }
+
+.login_icon {
+    margin-right: 10;
+    color: rgb(4, 170, 170);
+}
+
+.login_form {
+    display: flex;
+    justify-content: center;
+}
+
+.login_form input {
+    margin: 10;
+    height: 37;
+    
+}
