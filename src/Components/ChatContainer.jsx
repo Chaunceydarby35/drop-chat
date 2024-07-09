@@ -5,7 +5,7 @@ const ChatContainer = () => {
     <div>
         <div>
             <div>
-                
+                <h4>Username</h4>
             </div>
         </div>
     </div>
