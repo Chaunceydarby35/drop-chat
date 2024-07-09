@@ -1,3 +1,6 @@
+/* Login */
+
+
 .login_title {
     display: flex;
     align-items: center;
@@ -37,3 +40,20 @@
     color: #fff;
     margin: 10px;
 }
+
+
+/* Chat Container */
+
+.chats_header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.chats_icon {
+    color: red;
+}
+
+.chats_logout {
+    color: rgb(6, 152, 152);
+}
+
