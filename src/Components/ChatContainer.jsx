@@ -5,7 +5,12 @@ const ChatContainer = () => {
     <div>
         <div>
             <div>
-                <h4>Username</h4>
+                <h4>
+                    Username: Chauncey
+                </h4>
+                <p>
+                    <FaYoutube/> DropChat
+                </p>
             </div>
         </div>
     </div>
