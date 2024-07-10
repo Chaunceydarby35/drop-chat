@@ -24,7 +24,10 @@ const ChatLists = () => {
         )
     }
   return (
-    <div>ChatLists</div>
+    <div>
+        <SenderChat/>
+        <ReceiverChat/>
+    </div>
   )
 }
 
