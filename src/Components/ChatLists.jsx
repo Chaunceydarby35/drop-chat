@@ -7,6 +7,7 @@ const ChatLists = () => {
                 <img src="" alt="" />
                 <p>
                     <strong>Chauncey</strong>
+                    message
                 </p>
             </div>
         )
