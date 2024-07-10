@@ -12,12 +12,12 @@ const ChatLists = () => {
             </div>
         )
     }
-    function SenderChat () {
+    function RecieverChat () {
         return (
             <div>
                 <img src="https://picsum.photos/id/237/200/300" alt="" />
                 <p>
-                    <strong>Chauncey</strong>
+                    <strong>Aoife</strong>
                     message
                 </p>
             </div>
