@@ -4,7 +4,18 @@ const ChatLists = () => {
     function SenderChat () {
         return (
             <div>
-                <img src="" alt="" />
+                <img src="https://picsum.photos/id/237/200/300" alt="" />
+                <p>
+                    <strong>Chauncey</strong>
+                    message
+                </p>
+            </div>
+        )
+    }
+    function SenderChat () {
+        return (
+            <div>
+                <img src="https://picsum.photos/id/237/200/300" alt="" />
                 <p>
                     <strong>Chauncey</strong>
                     message
