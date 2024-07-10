@@ -1,4 +1,5 @@
 import { FaYoutube } from "react-icons/fa6"
+import ChatLists from "./ChatLists"
 
 const ChatContainer = () => {
   return (
@@ -15,6 +16,7 @@ const ChatContainer = () => {
                     <strong>Logout</strong>
                 </p>
             </div>
+            <ChatLists/>
         </div>
     </div>
   )
