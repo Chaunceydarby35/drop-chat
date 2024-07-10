@@ -12,7 +12,7 @@ const ChatLists = () => {
             </div>
         )
     }
-    function RecieverChat () {
+    function ReceiverChat () {
         return (
             <div>
                 <img src="https://picsum.photos/id/237/200/300" alt="" />
