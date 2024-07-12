@@ -57,3 +57,16 @@
     color: rgb(6, 152, 152);
 }
 
+/* chats list */
+.chat_sender {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+}
+
+.chat_sender img,
+.chat_receiver img {
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+}
