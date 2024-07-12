@@ -70,3 +70,10 @@
     height: 30px;
     border-radius: 100%;
 }
+
+.chat_sender p{
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 10px;
+    max-width: 60%;
+}
