@@ -6,7 +6,7 @@ const ChatContainer = () => {
   return (
     <div>
         <div>
-            <div className="chat_header">
+            <div className="chats_header">
                 <h4>
                     Username: Chauncey
                 </h4>
