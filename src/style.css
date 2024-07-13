@@ -1,6 +1,4 @@
 /* Login */
-
-
 .login_title {
     display: flex;
     align-items: center;
@@ -11,6 +9,7 @@
 .login_icon {
     margin-right: 10px;
     color: rgb(4, 170, 170);
+    font-size: 30px;
 }
 
 .login_form {
