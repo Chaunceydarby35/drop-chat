@@ -21,6 +21,7 @@
 .login_form input {
     margin: 10px;
     height: 37px;
+    width: 25%;
     border-radius: 10px;
     border-width: 5px;
     border-color: rgb(4, 170, 170);
