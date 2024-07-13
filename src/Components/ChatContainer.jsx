@@ -11,9 +11,9 @@ const ChatContainer = () => {
                     Username: Chauncey
                 </h4>
                 <p>
-                    <FaYoutube className="chat_icon"/> DropChat
+                    <FaYoutube className="chats_icon"/> DropChat
                 </p>
-                <p className="chat_logout">
+                <p className="chats_logout">
                     <strong>Logout</strong>
                 </p>
             </div>
