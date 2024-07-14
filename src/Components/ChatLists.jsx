@@ -12,6 +12,7 @@ const ChatLists = () => {
             </div>
         )
     }
+    
     function ReceiverChat () {
         return (
             <div>
